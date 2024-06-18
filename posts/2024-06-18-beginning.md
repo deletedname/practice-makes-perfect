@@ -5,4 +5,4 @@ date: 2024-06-18
 
 # Only the beginning
 
-I will get the hang of this.
+I will get the hang of this. Maybe today, maybe tomorrow. Just stick with it.
